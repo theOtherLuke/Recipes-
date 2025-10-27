@@ -7,31 +7,31 @@ A buttery, tropical quick bread with a texture between banana bread and pineappl
 🧂 Ingredients
 
 Dry Ingredients
-	•	2 cups all-purpose flour
-	•	¾ cup + 1 tsp sugar (reserve 1 tsp for glaze)
-	•	1 ½ tsp baking powder
-	•	½ tsp baking soda
-	•	½ tsp salt
-	•	½ tsp cinnamon
+ - 2 cups all-purpose flour
+ - ¾ cup + 1 tsp sugar (reserve 1 tsp for glaze)
+ - 1 ½ tsp baking powder
+ - ½ tsp baking soda
+ - ½ tsp salt
+ - ½ tsp cinnamon
 
 Wet Ingredients
-	•	2 large eggs, room temperature
-	•	½ cup half & half, room temperature
-	•	¼ cup pineapple juice (from the can)
-	•	½ tsp vanilla extract
-	•	½ cup melted butter, warm but not hot — add last
+ - 2 large eggs, room temperature
+ - ½ cup half & half, room temperature
+ - ¼ cup pineapple juice (from the can)
+ - ½ tsp vanilla extract
+ - ½ cup melted butter, warm but not hot — add last
 
 Fruit
-	•	1 (14 oz) can pineapple chunks in juice, drained and chopped into small pieces (about blueberry size)
+ - 1 (14 oz) can pineapple chunks in juice, drained and chopped into small pieces (about blueberry size)
 
 ⸻
 
 🔧 Equipment
-	•	9x5-inch (or 5x9-inch) loaf pan
-	•	Pastry brush
-	•	Mixing bowls
-	•	Whisk and spatula
-	•	Cooling rack
+ - 9x5-inch loaf pan
+ - Pastry brush
+ - Mixing bowls
+ - Whisk and spatula
+ - Cooling rack
 
 ⸻
 
@@ -53,7 +53,9 @@ Fruit
 3. Melt the Butter
 
 Melt the butter gently using a warm-water bath:
+
 Place the butter dish in a bowl of hot tap water until melted and slightly warm to the touch — not hot.
+
 (Tip: Set the butter out the day before so it melts faster.)
 
 ⸻
@@ -61,22 +63,22 @@ Place the butter dish in a bowl of hot tap water until melted and slightly warm 
 4. Mix the Dry Ingredients
 
 In a large bowl, whisk together:
-	•	Flour
-	•	¾ cup sugar (reserve 1 tsp for glaze)
-	•	Baking powder
-	•	Baking soda
-	•	Salt
-	•	Cinnamon
+	- Flour
+	- ¾ cup sugar (reserve 1 tsp for glaze)
+	- Baking powder
+	- Baking soda
+	- Salt
+	- Cinnamon
 
 ⸻
 
 5. Mix the Wet Ingredients
 
 In a separate bowl, whisk together:
-	•	Eggs
-	•	Half & half
-	•	Pineapple juice
-	•	Vanilla extract
+ - Eggs
+	- Half & half
+	- Pineapple juice
+	- Vanilla extract
 
 Once smooth and combined, add the melted butter last, whisking continuously to prevent curdling from temperature differences.
 
@@ -127,8 +129,8 @@ Slice, serve, and enjoy warm or at room temperature.
 ⸻
 
 💡 Notes & Tips
-	•	Brushing the pan with butter adds flavor and helps develop a crisp golden crust.
-	•	Adding butter last to the wet mix prevents curdling and ensures even texture.
-	•	For extra pineapple flavor, brush additional juice over the loaf after baking.
-	•	Store covered at room temperature for up to 3 days or refrigerate for up to a week.
-	•	Toasted slices are incredible with a little butter or cream cheese.
+	- Brushing the pan with butter adds flavor and helps develop a crisp golden crust.
+	- Adding butter last to the wet mix prevents curdling and ensures even texture.
+	- For extra pineapple flavor, brush additional juice over the loaf after baking.
+	- Store covered at room temperature for up to 3 days or refrigerate for up to a week.
+	- Toasted slices are incredible with a little butter or cream cheese.
